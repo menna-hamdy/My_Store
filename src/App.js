@@ -20,6 +20,5 @@ function App() {
   );
 }
 
-console.log(Navbar);
 export default App;
 
