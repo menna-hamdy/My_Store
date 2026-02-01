@@ -4,30 +4,30 @@ import "../App.css";
 
 export default function Home() {
 const slides = [
-  { 
-    id: 1, 
-    title: "50% Off For Your First Shopping",
-    text: `Start your shopping journey with a special 50% OFF just for you!...`, 
-    img: process.env.PUBLIC_URL + "/images/cart.png" 
-  },
-  { 
-    id: 2, 
-    title: "New Summer Collection 2026",
-    text: `Embrace the sun with our exclusive 2026 Summer Line...`, 
-    img: process.env.PUBLIC_URL + "/images/summer.png" 
-  },
-  { 
-    id: 3, 
-    title: "Best Gadgets for Tech Lovers", 
-    text: `Upgrade your tech game!...`, 
-    img: process.env.PUBLIC_URL + "/images/tech.png" 
-  },
-  { 
-    id: 4, 
-    title: "Free Shipping on All Orders", 
-    text: `Shop your favorite products...`,  
-    img: process.env.PUBLIC_URL + "/images/free.png" 
-  },
+    { 
+      id: 1, 
+      title: "50% Off For Your First Shopping",
+      text: `Start your shopping journey with a special 50% OFF just for you! Shop top products, enjoy great deals, and experience smooth, hassle-free shopping from day one`, 
+      img: process.env.PUBLIC_URL + "/images/cart.png" 
+    },
+    { 
+      id: 2, 
+      title: "New Summer Collection 2026",
+      text: `"Embrace the sun with our exclusive 2026 Summer Line. Lightweight fabrics, bold designs, and fresh styles crafted to keep you cool and trendy all season long."`, 
+      img: process.env.PUBLIC_URL + "/images/summer.png" 
+    },
+    { 
+      id: 3, 
+      title: "Best Gadgets for Tech Lovers", 
+      text: `Upgrade your tech game! From smart devices to must-have accessories, discover the best gadgets for every tech enthusiast.`, 
+      img: process.env.PUBLIC_URL + "/images/tech.png" 
+    },
+    { 
+      id: 4, 
+      title: "Free Shipping on All Orders", 
+      text: `Shop your favorite products and get them delivered to your door fast and free. No hidden fees, no minimum order, just smooth shopping.`,  
+      img: process.env.PUBLIC_URL + "/images/free.png" 
+    },
 ];
   // ==============================
   const features = [
