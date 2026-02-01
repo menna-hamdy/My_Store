@@ -42,7 +42,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://menna-hamdy.github.io/My_Store",
+  "homepage": "https://menna-hamdy.github.io/My_Store/",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
